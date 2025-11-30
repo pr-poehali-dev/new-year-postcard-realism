@@ -16,7 +16,7 @@ const Index = () => {
         <Card className="overflow-hidden aurora-glow bg-card/95 backdrop-blur border-primary/30">
           <div className="relative">
             <img
-              src="https://cdn.poehali.dev/projects/82d5e1c6-26bc-447c-a862-e7d4924b97af/files/f0ac098d-38c7-4dfb-ade0-af80b76ca0f8.jpg"
+              src="https://cdn.poehali.dev/projects/82d5e1c6-26bc-447c-a862-e7d4924b97af/files/2bb38e0f-e985-4ae9-98ea-6ecf47eb301a.jpg"
               alt="Новогодняя открытка в стиле коми-культуры с Кöдзыд Пöлем, Лымныв и северным сиянием"
               className="w-full h-auto"
             />
